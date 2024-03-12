@@ -1,0 +1,34 @@
+[
+    {
+        "model":"myapp.Notification",
+        "pk":"1",
+        "fields":{
+            "prn":"210021027643",
+            "message":"Sem 3 results Out now"
+        }
+    },
+    {
+        "model":"myapp.Notification",
+        "pk":"2",
+        "fields":{
+            "prn":"210021027643",
+            "message":"Request for duty exchange on 27/02/2024"
+        }
+    },
+    {
+        "model":"myapp.Notification",
+        "pk":"3",
+        "fields":{
+            "prn":"210021027643",
+            "message":"Pay Your exam fees"
+        }
+    },
+    {
+        "model":"myapp.Notification",
+        "pk":"4",
+        "fields":{
+            "prn":"SPK0034",
+            "message":"Invigilation duty remains"
+        }
+    }
+]
